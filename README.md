@@ -1,6 +1,6 @@
 # Peer Portrait
 
-Using [Canva](https://www.canva.com/design/DAG6n_UXwHc/dlp4TtvvoHkXg03faB0bFw/edit?utm_content=DAG6n_UXwHc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), I introduced my peer and portrayed her data information in a conventional visualization method
+Initially, I introduced my peer and presented her data using a traditional visualization method through hand sketching. Later, I recreated it in [Canva](https://www.canva.com/design/DAG6n_UXwHc/dlp4TtvvoHkXg03faB0bFw/edit?utm_content=DAG6n_UXwHc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), making it visually appealing.
 
 | Hand sketching |  | Canva |  
 |-------------|--|-------------|
